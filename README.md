@@ -7,8 +7,8 @@
 
 ### Let's connect!
 <p>
-    <a href="https://t.me/Alone_Shaurya_king" target="blank"><img src="https://img.shields.io/badge/@HEROGAMERS1-30302f?style=flat&logo=telegram" /></a>
-    <a href="https://instagram.com/attitudesreel" target="blank"><img src="https://img.shields.io/badge/@HeroOfficialYT-30302f?style=flat&logo=instagram" /></a>
+    <a href="https://t.me/Alone_Shaurya_king" target="blank"><img src="https://img.shields.io/badge/Attitude King-30302f?style=flat&logo=telegram" /></a>
+    <a href="https://instagram.com/attitudesreel" target="blank"><img src="https://img.shields.io/badge/Attitude king-30302f?style=flat&logo=instagram" /></a>
 </p>
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
